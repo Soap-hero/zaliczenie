@@ -2,6 +2,8 @@ import csv
 
 plik = 'kontakty.csv'
 
+#edit
+
 def dodaj_kontakt():
     imie = input("Imię: ")
     telefon = input("Telefon: ")
